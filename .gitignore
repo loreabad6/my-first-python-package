@@ -1,2 +1,3 @@
 lorepy.egg-info/
 lorepy/__pycache__/
+lorepy/tests/__pycache__/
