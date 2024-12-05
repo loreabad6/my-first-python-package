@@ -17,7 +17,7 @@ setup(
   author = "Lorena Abad",
   author_email = "lore.abad6@gmail.com",
   description = "This is my first toy python package",
-  license = "Type here what license your package has",
+  license = "Apache License 2.0",
   packages = find_packages(),
   install_requires = requirements
 )
