@@ -1,20 +1,20 @@
 def hello(name = "world"):
     """Hello function
-  
-  My function is very nice and says hello to you.
-  
-  Parameters
-  ----------
-  name : str
-    Who do you want to say hello to?
+    
+    My function is very nice and says hello to you.
+    
+    Parameters
+    ----------
+    name : str
+        Who do you want to say hello to?
 
-  Returns
-  -------
-  str
-    A very nice greeting to "name".
-  
-  Examples
-  --------
-  >>> hello("Lore").
-  """
-  print("Hello ", name, "! Welcome to my first Python package!", sep = "")
+    Returns
+    -------
+    str
+        A very nice greeting to "name".
+    
+    Examples
+    --------
+    >>> hello("Lore").
+    """
+    print("Hello ", name, "! Welcome to my first Python package!", sep = "")

@@ -13,7 +13,7 @@ except FileNotFoundError:
 # Metadata
 setup(
   name = "lorepy",
-  version = 0.0.0.9000,
+  version = "0.0.0.9000",
   author = "Lorena Abad",
   author_email = "lore.abad6@gmail.com",
   description = "This is my first toy python package",
