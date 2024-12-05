@@ -1,3 +1,5 @@
+from emoji import emojize
+
 def hello(name = "world"):
     """Hello function
     
@@ -17,4 +19,4 @@ def hello(name = "world"):
     --------
     >>> lorepy.hello("Lore").
     """
-    print("Hello ", name, "! Welcome to my first Python package!", sep = "")
+    print("Hello ", name, "! Welcome to my first Python package!", emojize(":wave:"), sep = "")

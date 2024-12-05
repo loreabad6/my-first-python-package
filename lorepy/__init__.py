@@ -1,1 +1,1 @@
-from lorepy import hello
+from lorepy.hello import hello
