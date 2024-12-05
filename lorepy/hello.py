@@ -15,6 +15,6 @@ def hello(name = "world"):
     
     Examples
     --------
-    >>> hello("Lore").
+    >>> lorepy.hello("Lore").
     """
     print("Hello ", name, "! Welcome to my first Python package!", sep = "")
